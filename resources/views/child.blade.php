@@ -1,4 +1,4 @@
-
+//child class
 @extends('layouts.app')
 
 @section('sidebar')
